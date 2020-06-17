@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "client",
+  "name": "elm-minimum-spa",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

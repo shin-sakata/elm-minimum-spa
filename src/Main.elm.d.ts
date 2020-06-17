@@ -18,10 +18,5 @@ export namespace Elm {
         }
 
         function init(): App;
-
-        // interface Args {
-        //     node: HTMLElement;
-            // flags: any;
-        // }
     }
 }
